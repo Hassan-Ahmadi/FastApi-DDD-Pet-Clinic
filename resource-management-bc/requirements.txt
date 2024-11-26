@@ -1,0 +1,14 @@
+fastapi  
+uvicorn 
+pydantic
+httpx
+databases 
+sqlalchemy
+passlib[bcrypt] 
+python-multipart
+Jinja2
+email-validator
+pytest
+mypy 
+black 
+flake8
